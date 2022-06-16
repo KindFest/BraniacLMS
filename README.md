@@ -1,10 +1,8 @@
-# BraniacLMS
+# Description
 
-Современная платформа для обучения. Прогрессивный взгляд на простые вещи.
+The training project of the training management system, which was developed during training at the faculty "Python Development", the Geekbrains portal, the course of the basis of Django.
 
-Учебный проект системы управления обучением, который разработан при прохождений обучения на факультете "Python-разработка", портал GeekBrains, курс `Основы Django`.
-
-## Стек
+## Stack
 
 - Python > 3.7
   - isort, black, autoflake
@@ -13,6 +11,6 @@
 - VSCode
 - SQLite 3
 
-## Лицензия
+## License
 
 MIT
